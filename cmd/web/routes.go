@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/Hernanvza/internal/pkg/config"
-	"github.com/Hernanvza/internal/pkg/handlers"
+	"github.com/Hernanvza/bookings/internal/config"
+	"github.com/Hernanvza/bookings/internal/handlers"
 	"github.com/go-chi/chi"
 )
 
